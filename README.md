@@ -1,5 +1,6 @@
 # VoteChain
 # Decentralized Voting System (DVS)
+![image](https://github.com/user-attachments/assets/3ead3012-ce5f-4030-b7ee-e3d64ff2fd0b)
 
 ## **Vision**
 The **Decentralized Voting System (DVS)** aims to bring trust, transparency, and security to voting processes through blockchain technology. By decentralizing voting, DVS ensures that every vote is recorded on the blockchain, eliminating the need for centralized authorities and preventing tampering or fraud. This system empowers communities, organizations, and governments to conduct elections with complete transparency and immutability.
@@ -23,7 +24,8 @@ The **Decentralized Voting System (DVS)** aims to bring trust, transparency, and
 
 ### **Contract Details**
 - **Contract Address**: 0xaC3aa06D028a4F140CF62dA52f7039368400BD3D 
-- **Deployed on**: Goerli
+![image](https://github.com/user-attachments/assets/b062413f-0d58-41e5-ae7b-d383452e78a3)
+
 
 ## **How to Use**
 1. **Register as a Voter**: Call the `registerVoter()` function to register your Ethereum address as a voter.
